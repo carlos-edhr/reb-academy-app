@@ -17,7 +17,6 @@ export const metadata: Metadata = {
   title: "REB Academy ",
   description: "Rosarito Elite Basketball Academy's website.",
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
